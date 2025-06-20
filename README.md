@@ -35,6 +35,19 @@ This project is a basic Stock Management System designed to help a company manag
 
 ---
 
+## use
+```bash
+git clone https://github.com/DARKMAN226/C_Project-G11.git
+```
+```bash
+cd C_Project-G11
+```
+## Double click on the executable
+
+```bash
+Gestion de Stock.exe
+```
+
 ## 🛠️ Technologies Used
 
 - Language: C 
