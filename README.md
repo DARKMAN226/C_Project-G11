@@ -38,6 +38,6 @@ This project is a basic Stock Management System designed to help a company manag
 ## 🛠️ Technologies Used
 
 - Language: C 
-- Data Storage: Plain text file (`.txt`)
+- Data Storage: Plain text file (`JSON`)
 
 ---
